@@ -21,5 +21,12 @@ namespace LaborationTwo
             return Convert.ToDouble(Console.ReadLine());
         }
 
+        static double add()
+        {
+            Console.Write("Perform the “+” operation");
+            return Convert.ToDouble(Console.ReadLine());
+        }
+
+
     }
 }
