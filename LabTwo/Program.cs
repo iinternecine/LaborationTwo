@@ -14,12 +14,5 @@ namespace LaborationTwo
             Console.WriteLine("Perform the “*” operation");
             Console.WriteLine("Perform the “/” operation");
         }
-
-        static double InputA()
-        {
-            Console.Write("Введите A: ");
-            return Convert.ToDouble(Console.ReadLine());
-        }
-
     }
 }
